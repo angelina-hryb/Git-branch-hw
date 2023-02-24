@@ -1,0 +1,14 @@
+ID: BR-1
+Title:
+Environment: OS: Windows 10 22H2;Chrome 109.0.5414.120(64 бит)
+Severity: trivial
+Priority: low
+Precondirion:
+STR (Steps to restore):
+Expected result
+Actual Result
+Link (attachments):
+Telegram @
+
+Author:
+Date: 
