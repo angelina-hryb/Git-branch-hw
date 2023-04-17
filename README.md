@@ -1,3 +1,5 @@
+<details>
+<summary>Homework 1 condition✅</summary>
 # Git-branch-hw
 На локальном репозитории сделать ветки для:
 - Postman
@@ -16,3 +18,4 @@
 8. Запушить структуру на внешний репозиторий
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 10. Синхронизировать Внешнюю и Локальную ветки Main
+</details>
