@@ -54,6 +54,8 @@ $git commit -m "CL str"
 $git push  
   
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main  
+После git push Check_list_structure.txt ветки Check_lists нажимаем на зеленую кнопку Compare&pull request 
+
 10. Синхронизировать Внешнюю и Локальную ветки Main  
 $git fetch  
 $git checkout main  
